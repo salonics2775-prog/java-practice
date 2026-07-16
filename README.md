@@ -1,4 +1,4 @@
-# Java Practice ☕
+# Java Practice 
 
 Welcome to my Java Practice Repository.
 This repository contains Java programs that I have written while learning Java programming from basic to advanced concepts.
